@@ -1,0 +1,7 @@
+c:\users\ali.abdoli\source\repos\AdvancedTopic\AdvancedTopic\bin\Debug\AdvancedTopic.exe.config
+c:\users\ali.abdoli\source\repos\AdvancedTopic\AdvancedTopic\bin\Debug\AdvancedTopic.exe
+c:\users\ali.abdoli\source\repos\AdvancedTopic\AdvancedTopic\bin\Debug\AdvancedTopic.pdb
+c:\users\ali.abdoli\source\repos\AdvancedTopic\AdvancedTopic\obj\Debug\AdvancedTopic.csprojResolveAssemblyReference.cache
+c:\users\ali.abdoli\source\repos\AdvancedTopic\AdvancedTopic\obj\Debug\AdvancedTopic.csproj.CoreCompileInputs.cache
+c:\users\ali.abdoli\source\repos\AdvancedTopic\AdvancedTopic\obj\Debug\AdvancedTopic.exe
+c:\users\ali.abdoli\source\repos\AdvancedTopic\AdvancedTopic\obj\Debug\AdvancedTopic.pdb
